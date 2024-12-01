@@ -46,32 +46,6 @@ Este projeto realiza uma análise exploratória e fornece insights estratégicos
 - Heatmap de correlação entre variáveis.
 - Boxplots para variação de lucro por categoria de produto.
 
-## Como Executar o Projeto
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/analise-vendas-supermercado.git
-   ```
-2. Instale as dependências:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Execute o notebook em Jupyter:
-   ```bash
-   jupyter notebook
-   ```
-
-## Estrutura do Repositório
-```
-.
-|-- data
-|   |-- raw_data.csv
-|   |-- cleaned_data.csv
-|-- notebooks
-|   |-- analise_vendas_supermercado.ipynb
-|-- README.md
-|-- requirements.txt
-```
-
 ## Conclusão
 Os insights obtidos fornecem uma base sólida para melhorias no desempenho operacional e na satisfação do cliente. O foco em categorias lucrativas, como Technology, e regiões rentáveis pode maximizar os resultados.
 
